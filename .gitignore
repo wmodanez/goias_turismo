@@ -1,0 +1,5 @@
+.venv
+.ipynb_checkpoints
+.idea
+dados_originais
+dados_finalizados
